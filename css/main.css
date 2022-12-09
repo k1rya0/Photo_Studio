@@ -121,7 +121,7 @@ header .container {
 }
 
 .section-first {
-    background-image: url(/img/First-slede-bg.png);
+    background-image: url(../img/First-slede-bg.png);
     min-height: 901px;
     background-size: cover;
     color: #fff;
@@ -182,7 +182,7 @@ header .container {
 
 
 .section-third {
-    background-image: url(/img/IMAGE.png);
+    background-image: url(../img/IMAGE.png);
     height: 600px;
     position: relative;
     background-size: cover;
@@ -207,7 +207,7 @@ header .container {
 
 
 .section-fourth {
-    background-image: url(/img/IMAGE2.png);
+    background-image: url(../img/IMAGE2.png);
     height: 600px;
     position: relative;
     background-size: cover;
@@ -246,7 +246,7 @@ header .container {
 }
 
 .section-six {
-    background-image: url(/img/IMAGE55.png);
+    background-image: url(../img/IMAGE55.png);
     height: 700px;
     position: relative;
     background-size: cover;
@@ -482,7 +482,13 @@ footer .container {
     border-radius: 14px;
     padding: 9px 20px 13px 20px;
     text-decoration: none;
+
+485
+
     color: #000;
+
+486
+
     top: calc(50% - 42px/2);
 }
 
